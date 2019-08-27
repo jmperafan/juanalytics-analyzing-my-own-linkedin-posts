@@ -1,4 +1,5 @@
-# juanalytics-analyzing-my-own-linkedin-posts
+# Juanalytics
+## Analyzing my own LinkedIn posts
 
 This folder is a work in progress!
 
